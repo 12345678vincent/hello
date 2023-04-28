@@ -1,2 +1,1 @@
-# hello
-android app for weather forecasting system.
+Android app for weather forecasting system.
